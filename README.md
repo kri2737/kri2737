@@ -5,7 +5,7 @@
 💻 Aspiring Developer passionate about solving problems and building projects  
 🚀 Exploring Web Development, Open Source, and Machine Learning
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 - GitHub: https://github.com/kri2737
 - LeetCode: https://leetcode.com/u/kritikaleetcode/
 
