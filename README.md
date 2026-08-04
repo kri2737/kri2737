@@ -7,7 +7,7 @@
 
 # 🔗  Connect with Me
 - GitHub: https://github.com/kri2737
-- LeetCode: https://leetcode.com/u/kritikaleetcode/
+- LeetCode:  https://leetcode.com/u/kritikaleetcode/
 
 
 <!--
