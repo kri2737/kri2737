@@ -1,9 +1,9 @@
-<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/7e53ecf2-6bac-4abb-8446-6dc28c700765" />
+ <img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/7e53ecf2-6bac-4abb-8446-6dc28c700765" />
 # Hi ,I'm Kritika Singh👋
 
 🌱 Currently learning  Data Structures & Algorithms, Java, and AI/ML   
 💻 Aspiring Developer passionate about solving problems and building projects  
-🚀 Exploring Web Development, Open Source, and Machine Learning
+🚀 Exploring Web Development , Open Source , and Machine Learning
 
 # 🔗  Connect with Me
 - GitHub: https://github.com/kri2737
