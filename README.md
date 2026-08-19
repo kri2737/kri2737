@@ -3,7 +3,7 @@
 
 🌱 Currently learning  Data Structures & Algorithms, Java, and AI/ML   
 💻 Aspiring Developer passionate about solving problems and building projects  
-🚀 Exploring Web Development , Open Source , and Machine Learning
+🚀 Exploring Web Development, Open Source , and Machine Learning
 
 # 🔗  Connect with Me
 - GitHub: https://github.com/kri2737
